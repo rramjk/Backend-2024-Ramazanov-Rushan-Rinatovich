@@ -1,0 +1,10 @@
+
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤°08ıèô1J$eb5c7925-88ef-48a7-b06f-4f62cdf179a9
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ò½Â8şèô1J$0068d347-3c48-4507-af1e-8bfff5d38e6f
+m	java:S106"+Replace this use of System.out by a logger.(–ıº8…èô1J$c78f9075-b58c-4319-bbf7-50f124231388
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8„ıÿô1J$851c67cb-068d-4b60-9353-1e2a9d727830
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8…ıÿô1J$ed70a7d6-7a5a-4f7b-9101-fa1fd37c7294
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8‡ıÿô1J$c0c9200c-8cd0-48a3-a433-d16ffea80791
